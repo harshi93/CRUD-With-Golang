@@ -1,0 +1,9 @@
+{
+    "id": "2",
+    "isbn": "654321",
+    "title": "Expandables",
+    "director": {
+        "firstname": "Sylvestor",
+        "lastname": "Stalone"
+    }
+}
